@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Merete</h1>
-<h3 align="center">I'm an aspiring Data Science with a passion for Sports Analytics and Public Health</h3>
+<h3 align="center">I'm an aspiring Data Scientist with a passion for Sports Analytics and Public Health</h3>
 
 <h4 align="left">A little about me:</p>
 <p align="left"> - I am currently pursuing a Master's of Data Science at the University of British Columbia with an expected completion date of June 30, 2024</p>
