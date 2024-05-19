@@ -10,6 +10,8 @@
 <h3 align="left">Projects:</h3>
 <p align="left"> - Co-created a Python package that facilitates exploratory data analysis for time-series data - <a href="https://quanteda.readthedocs.io/en/latest/" target="_blank" rel="noreferrer">quanteda</a></p>
 <p align="left"> - Co-created a supervised machine learning model to predict potential rating of players in FIFA '22 - <a href="https://github.com/UBC-MDS/fifa-potential" target="_blank" rel="noreferrer">fifa-potential</a></p>
+<p align="left"> - Co-created a Dash Dashboard exploring global air pollution - <a href="https://github.com/UBC-MDS/DSCI-532_2024_2_pollution-tracker" target="_blank" rel="noreferrer">pollution-tracker</a></p>
+<p align="left"> - Created a dashboard in Shiny to explore the 2014-2016 Ebola epidemic - <a href="https://github.com/meretelutz/ebola_explorer" target="_blank" rel="noreferrer">ebola-explorer</a></p>
 
 
 <h3 align="left">Languages and Tools:</h3>
